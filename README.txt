@@ -16,7 +16,7 @@ If you want to change the resolution and/or bitrate of the virtual display/secon
 ! IMPORTANT !
 When you've had enough gaming and want to close Android Wii U, go to your Android device's home screen FIRST.
 This is the best guarantee that your home screen icon layout won't randomly disappear (this issue doesn't seem to affect gaming frontends or third party launchers)
-Then close the Display Manager and scrcpy.
+Then close Android Wii U and scrcpy.
 
 ---------------
 
