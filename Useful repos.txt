@@ -1,0 +1,15 @@
+DS Emulator
+https://github.com/melonDS-emu/melonDS
+
+3DS Emulator
+https://github.com/azahar-emu/azahar
+
+Wii U Emulator
+https://github.com/SapphireRhodonite/Cemu
+
+---------------------
+
+Dual screen games and companion apps
+https://github.com/codm2000/Dual-Screen-Games
+
+^^^ This link can't be pasted into github_apk_installer directly. First actually visit the link, then find other GitHub links in it
