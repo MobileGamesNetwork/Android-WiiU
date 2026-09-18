@@ -1,10 +1,15 @@
-Android Wii U - First Time Setup:
-- Download scrcpy and extract somewhere on your PC (doubleclick on "Download scrcpy" to open the GitHub page)
+# Android Wii U
+Turn your Android device into a Wii U GamePad - play dual screen games with your Android device being the bottom screen, and your PC/Laptop display being the top screen. ENTIRERLY VIBECODED, anyone is welcome to make their own slopless version
+
+---------------
+
+## Android Wii U - First Time Setup:
+- Download scrcpy and extract somewhere on your PC (you can doubleclick on "Download scrcpy" to open the GitHub page)
 - Run "Install_ADB(RunAsAdministrator)"... as an administrator of course (right click)
 - Run "First_Time_Pair" and follow the provided instructions
 - Run "Android_WiiU"
 
-Android Wii U - Daily Use
+## Android Wii U - Daily Use
 - Run "Android_WiiU"
 
 If wireless connection fails, go to
@@ -13,10 +18,10 @@ and make sure Wireless Debugging is enabled. Sometimes it can disable itself
 
 If you want to change the resolution and/or bitrate of the virtual display/second screen go to wiiu_config.txt
 
-! IMPORTANT !
+## ! IMPORTANT !
 When you've had enough gaming and want to close Android Wii U, go to your Android device's home screen FIRST.
-This is the best guarantee that your home screen icon layout won't randomly disappear (this issue doesn't seem to affect gaming frontends or third party launchers)
-Then close the Display Manager and scrcpy.
+This is the best guarantee that your home screen icon layout won't randomly disappear (this issue doesn't seem to affect gaming frontends or third party launchers).
+Then close Android Wii U and scrcpy.
 
 ---------------
 
